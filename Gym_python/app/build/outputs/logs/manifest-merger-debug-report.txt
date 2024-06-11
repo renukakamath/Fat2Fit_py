@@ -1,0 +1,286 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:2:1-94:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\b337e05be148b267ebc15197590fb8ad\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\eab914ae2b0ae69bba8b5cdf1163eae3\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\7093625e245be2f9da059fb69635e386\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\d8652eecaec1541e3b83ea201124b443\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\ebdaba724d630547519146b185ca3ca2\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\b4c6af1ae4345cab0a622f08a7523356\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\57ac94badb477ef97ca9b2d2685353fd\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\76f967ba5224a2324c7b36a6b6beb8ef\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\89face3daa86ec6e301af2545a00e819\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\7cadb58b8c0c86a09731971f6307fd56\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\efd769fb970c1894bc704f9b03375891\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\99286e9264ccffbdcfeef6a898d405a9\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\c645b14cbf7400c1620284ec778917ed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\69584d4b522a168305e2fe7e786b3c2d\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\f0aa855178a708528b0b89a033e11975\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\5b0bdb1141ca8e0033dd5a0f32776df1\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\5a32061153c0ccb63d4c91e7462c854e\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\b3178544db81ff2083269db8058eb1dd\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\fd28601af1e62f6b2008bfcf849ab48b\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\a76aa01d89e969980164b1fd1e31c0c5\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\3c66927090c50d8cae8d532a1f537c39\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\6fc8c33e0b497e25ecd64651fccd3c8e\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\24deb7c88481bc7fd9652b157e2158d8\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\998135bdb7686494daa9579c72a212a4\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\158fb668b4a0516eb81e0ac79af18a91\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\bd647f4fe7f1f1847c7c2a54d917be44\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:2:1-94:12
+	package
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\b337e05be148b267ebc15197590fb8ad\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\b337e05be148b267ebc15197590fb8ad\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\eab914ae2b0ae69bba8b5cdf1163eae3\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\eab914ae2b0ae69bba8b5cdf1163eae3\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\7093625e245be2f9da059fb69635e386\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\7093625e245be2f9da059fb69635e386\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\d8652eecaec1541e3b83ea201124b443\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\d8652eecaec1541e3b83ea201124b443\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\ebdaba724d630547519146b185ca3ca2\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\ebdaba724d630547519146b185ca3ca2\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\b4c6af1ae4345cab0a622f08a7523356\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\b4c6af1ae4345cab0a622f08a7523356\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\57ac94badb477ef97ca9b2d2685353fd\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\57ac94badb477ef97ca9b2d2685353fd\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\76f967ba5224a2324c7b36a6b6beb8ef\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\76f967ba5224a2324c7b36a6b6beb8ef\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\89face3daa86ec6e301af2545a00e819\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\89face3daa86ec6e301af2545a00e819\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\7cadb58b8c0c86a09731971f6307fd56\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\7cadb58b8c0c86a09731971f6307fd56\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\efd769fb970c1894bc704f9b03375891\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\efd769fb970c1894bc704f9b03375891\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\99286e9264ccffbdcfeef6a898d405a9\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\99286e9264ccffbdcfeef6a898d405a9\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\c645b14cbf7400c1620284ec778917ed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\c645b14cbf7400c1620284ec778917ed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\69584d4b522a168305e2fe7e786b3c2d\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\69584d4b522a168305e2fe7e786b3c2d\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\f0aa855178a708528b0b89a033e11975\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\f0aa855178a708528b0b89a033e11975\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\5b0bdb1141ca8e0033dd5a0f32776df1\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\5b0bdb1141ca8e0033dd5a0f32776df1\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\5a32061153c0ccb63d4c91e7462c854e\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\5a32061153c0ccb63d4c91e7462c854e\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\b3178544db81ff2083269db8058eb1dd\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\b3178544db81ff2083269db8058eb1dd\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\fd28601af1e62f6b2008bfcf849ab48b\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\fd28601af1e62f6b2008bfcf849ab48b\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\a76aa01d89e969980164b1fd1e31c0c5\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\a76aa01d89e969980164b1fd1e31c0c5\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\3c66927090c50d8cae8d532a1f537c39\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\3c66927090c50d8cae8d532a1f537c39\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\6fc8c33e0b497e25ecd64651fccd3c8e\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\6fc8c33e0b497e25ecd64651fccd3c8e\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\24deb7c88481bc7fd9652b157e2158d8\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\24deb7c88481bc7fd9652b157e2158d8\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\998135bdb7686494daa9579c72a212a4\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\998135bdb7686494daa9579c72a212a4\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\158fb668b4a0516eb81e0ac79af18a91\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\158fb668b4a0516eb81e0ac79af18a91\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\bd647f4fe7f1f1847c7c2a54d917be44\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\bd647f4fe7f1f1847c7c2a54d917be44\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:11:22-64
+application
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:13:5-92:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\b337e05be148b267ebc15197590fb8ad\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\b337e05be148b267ebc15197590fb8ad\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\5b0bdb1141ca8e0033dd5a0f32776df1\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\5b0bdb1141ca8e0033dd5a0f32776df1\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:17:9-52
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Shijo\.gradle\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:18:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:19:9-44
+activity#com.example.gym.View_tournament
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:21:13-44
+activity#com.example.gym.User_rate_employee
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:24:13-47
+activity#com.example.gym.User_view_employee
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:26:9-28:40
+	android:exported
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:27:13-47
+activity#com.example.gym.Enter_otp
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:29:9-31:40
+	android:exported
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:30:13-38
+activity#com.example.gym.View_order_products
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:33:13-48
+activity#com.example.gym.View_my_orders
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:35:9-37:40
+	android:exported
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:36:13-43
+activity#com.example.gym.User_payment
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:38:9-40:40
+	android:exported
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:39:13-41
+activity#com.example.gym.View_cart_items
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:41:9-43:40
+	android:exported
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:42:13-44
+activity#com.example.gym.Add_to_cart
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:44:9-46:40
+	android:exported
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:45:13-40
+activity#com.example.gym.View_products
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:47:9-49:40
+	android:exported
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:48:13-42
+activity#com.example.gym.Login
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:50:9-52:48
+	android:label
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:52:13-45
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:51:13-34
+activity#com.example.gym.Ipsettings
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:53:9-61:20
+	android:label
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:55:13-62
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:54:13-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:56:13-60:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:57:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:59:17-77
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:59:27-74
+activity#com.example.gym.Home
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:62:9-64:59
+	android:label
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:64:13-56
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:63:13-33
+activity#com.example.gym.Registration
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:65:9-67:67
+	android:label
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:67:13-64
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:66:13-41
+activity#com.example.gym.Payment
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:68:9-70:62
+	android:label
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:70:13-59
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:69:13-36
+activity#com.example.gym.View_equipments
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:71:9-73:70
+	android:label
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:73:13-67
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:72:13-44
+activity#com.example.gym.View_usage
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:74:9-76:65
+	android:label
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:76:13-62
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:75:13-39
+activity#com.example.gym.Payments
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:77:9-79:63
+	android:label
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:79:13-60
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:78:13-37
+activity#com.example.gym.Viewdiet
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:80:9-82:63
+	android:label
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:82:13-60
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:81:13-37
+activity#com.example.gym.Message
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:83:9-85:62
+	android:label
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:85:13-59
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:84:13-36
+activity#com.example.gym.Complaint
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:86:9-88:64
+	android:label
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:88:13-61
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:87:13-38
+activity#com.example.gym.Feedback
+ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:89:9-91:63
+	android:label
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:91:13-60
+	android:name
+		ADDED from C:\Users\Shijo\OneDrive\Fat2Fit\Gym_python\app\src\main\AndroidManifest.xml:90:13-37

@@ -1,0 +1,123 @@
+{% include 'admin_header.html' %}
+  <section class="classtime-section class-time-table spad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="section-title">
+                        <!-- <h2>Classtime Table</h2> -->
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="row">
+                <div class="col-lg-12">
+                    <div class="timetable-controls">
+                        <ul>
+                            <li class="active" data-tsfilter="all">all class</li>
+                            <li data-tsfilter="crossfit">crossfit</li>
+                            <li data-tsfilter="lunge">lunge ball</li>
+                            <li data-tsfilter="ppsr">ppsr</li>
+                            <li data-tsfilter="walls">walls</li>
+                            <li data-tsfilter="candy">candy</li>
+                        </ul>
+                    </div>
+                </div>
+            </div> -->
+            <div class="table">
+
+					
+	<form method="post">
+
+
+		{% if data['batchsss']%}
+		<table align="center" class="table" style="width: 500px;">
+			<h2 align="center" style="color: white;">ADD BATCHES</h2>
+			<tr>
+				<th style="color: white;">Batch Name</th>
+				<td><input type="text" value="{{data['batchsss'][0]['batch_name']}}" required="" name="batch"></td>
+			</tr>
+			<tr>
+				<th style="color: white;">Starting Time </th>
+				<td><input type="time" required="" value="{{data['batchsss'][0]['start_time']}}" placeholder="hh:mm-AM/PM" name="stime"></td>
+			</tr>
+			<tr>
+				<th style="color: white;"> Ending Time</th>
+				<td><input type="time" required="" value="{{data['batchsss'][0]['end_time']}}" placeholder="hh:mm-AM/PM"  name="etime"></td>
+			</tr>
+			
+			<tr>
+				<td colspan="2" align="center"><input type="submit" name="update" value="ADD" class="btn btn-primary"></td>
+			</tr>
+		</table>
+
+
+{% else %}
+		<table align="center" class="table" style="width: 500px;">
+			<h2 align="center" style="color: white;">ADD BATCHES</h2>
+			<tr>
+				<th style="color: white;">Batch Name</th>
+				<td><input type="text" required="" name="batch"></td>
+			</tr>
+			<tr>
+				<th style="color: white;">Starting Time </th>
+				<td><input type="time" required="" placeholder="hh:mm-AM/PM" name="stime"></td>
+			</tr>
+			<tr>
+				<th style="color: white;"> Ending Time</th>
+				<td><input type="time" required="" placeholder="hh:mm-AM/PM"  name="etime"></td>
+			</tr>
+			<tr>
+				<th style="color: white;"> Instructor</th>
+				<td style="color: black;">
+					<select name="instructor_id" required="">
+						<option selected >Select Instructor</option>
+						{% for row in data['view_instructor'] %}
+						<option value="{{row['instructor_id']}}" >{{row['gfirst_name']}} {{row['glast_name']}}</option>
+						{% endfor %}
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center"><input type="submit" name="batches" value="ADD" class="btn btn-primary"></td>
+			</tr>
+		</table>
+
+		{% endif %}
+	</form>
+</table>
+
+
+		<table border="2" align="center" class="table" style="width: 1000px;color:white">
+			<h3 align="center" style="color:white">BATCH DETAILS</h3>
+			<br><br>
+			<thead>
+				<th>Batch Name</th>
+				<th>Starting Time</th>
+				<th>Ending Time</th>
+				<th>Instructor</th>
+				<th>Manage</th>
+			</thead>
+			<tbody>
+				{% for row in data['batch_details']%}
+				<tr>
+					<td>{{ row['batch_name'] }}</td>
+					<td>{{ row['start_time'] }}</td>
+					<td>{{ row['end_time'] }}</td>
+					<td>{{ row['gfirst_name'] }}</td>
+					<td><a href="?action=delete&id={{ row['batch_id'] }}">Delete</a>
+						<td><a href="?action=update&id={{ row['batch_id'] }}">Update</a></td>
+					
+				</tr>
+				{% endfor %}
+			</tbody>
+		</table>
+
+						</div>												
+					</div>
+				</div>
+			</section>
+
+
+
+	</form>
+
+{% include 'footer.html' %}

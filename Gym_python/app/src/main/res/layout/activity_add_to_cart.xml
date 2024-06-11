@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/gym7"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/textView9"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add To Cart" />
+
+    <EditText
+        android:id="@+id/etprice"
+        android:background="@drawable/layout_bg"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:textColor="#000"
+        android:textColorHint="#000"
+        android:paddingLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:text="0"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/etqnty"
+        android:background="@drawable/layout_bg"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:textColor="#000"
+        android:textColorHint="#000"
+        android:paddingLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:text="0"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/ettotal"
+        android:background="@drawable/layout_bg"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:textColor="#000"
+        android:textColorHint="#000"
+        android:paddingLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:text="0"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/btcart"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/button_bg"
+        android:layout_width="225dp"
+        android:layout_height="wrap_content"
+        android:textColor="#fff"
+        android:text="Add To Cart" />
+</LinearLayout>

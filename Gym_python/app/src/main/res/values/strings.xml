@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Beast Factory</string>
+    <string name="action_settings">Beast Factory</string>
+    <string name="hello_world">Beast Factory</string>
+    <string name="title_activity_ipsettings">Beast Factory</string>
+    <string name="title_activity_home">Beast Factory</string>
+    <string name="title_activity_registration">Beast Factory</string>
+    <string name="title_activity_payment">Beast Factory</string>
+    <string name="title_activity_view_equipments">Beast Factory</string>
+    <string name="title_activity_view_usage">Beast Factory</string>
+    <string name="title_activity_payments">Beast Factory</string>
+    <string name="title_activity_viewdiet">Beast Factory</string>
+    <string name="title_activity_message">Beast Factory</string>
+    <string name="title_activity_complaint">Beast Factory</string>
+    <string name="title_activity_feedback">Beast Factory</string>
+
+</resources>
